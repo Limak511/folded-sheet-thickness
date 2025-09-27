@@ -1,0 +1,14 @@
+C:\Users\kamil\Desktop\repos\FoldedSheetThickness\FoldedSheetThickness\bin\Debug\net9.0\FoldedSheetThickness.exe
+C:\Users\kamil\Desktop\repos\FoldedSheetThickness\FoldedSheetThickness\bin\Debug\net9.0\FoldedSheetThickness.deps.json
+C:\Users\kamil\Desktop\repos\FoldedSheetThickness\FoldedSheetThickness\bin\Debug\net9.0\FoldedSheetThickness.runtimeconfig.json
+C:\Users\kamil\Desktop\repos\FoldedSheetThickness\FoldedSheetThickness\bin\Debug\net9.0\FoldedSheetThickness.dll
+C:\Users\kamil\Desktop\repos\FoldedSheetThickness\FoldedSheetThickness\bin\Debug\net9.0\FoldedSheetThickness.pdb
+C:\Users\kamil\Desktop\repos\FoldedSheetThickness\FoldedSheetThickness\obj\Debug\net9.0\FoldedSheetThickness.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kamil\Desktop\repos\FoldedSheetThickness\FoldedSheetThickness\obj\Debug\net9.0\FoldedSheetThickness.AssemblyInfoInputs.cache
+C:\Users\kamil\Desktop\repos\FoldedSheetThickness\FoldedSheetThickness\obj\Debug\net9.0\FoldedSheetThickness.AssemblyInfo.cs
+C:\Users\kamil\Desktop\repos\FoldedSheetThickness\FoldedSheetThickness\obj\Debug\net9.0\FoldedSheetThickness.csproj.CoreCompileInputs.cache
+C:\Users\kamil\Desktop\repos\FoldedSheetThickness\FoldedSheetThickness\obj\Debug\net9.0\FoldedSheetThickness.dll
+C:\Users\kamil\Desktop\repos\FoldedSheetThickness\FoldedSheetThickness\obj\Debug\net9.0\refint\FoldedSheetThickness.dll
+C:\Users\kamil\Desktop\repos\FoldedSheetThickness\FoldedSheetThickness\obj\Debug\net9.0\FoldedSheetThickness.pdb
+C:\Users\kamil\Desktop\repos\FoldedSheetThickness\FoldedSheetThickness\obj\Debug\net9.0\FoldedSheetThickness.genruntimeconfig.cache
+C:\Users\kamil\Desktop\repos\FoldedSheetThickness\FoldedSheetThickness\obj\Debug\net9.0\ref\FoldedSheetThickness.dll
